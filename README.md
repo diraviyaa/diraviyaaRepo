@@ -1,2 +1,0 @@
-# diraviyaaRepo
-my first repository
