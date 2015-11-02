@@ -1,7 +1,7 @@
 FROM ubuntu:14.04 
 
  
- MAINTAINER M1018339 
+ MAINTAINER M1032378
  
  
  # Install JRE 
